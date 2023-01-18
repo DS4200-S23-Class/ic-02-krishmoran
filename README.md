@@ -1,8 +1,8 @@
 # ic-02
 ic-02 - Intro to HTML and CSS
 
-(GitHub Pages)[insert your hyperlink here]
 
+[GITHUB PAGES HERE](https://ds4200-s23-class.github.io/ic-02-krishmoran/)
 ## Purpose
 
 The purpose of this assignment is to practice HTML and CSS.  
