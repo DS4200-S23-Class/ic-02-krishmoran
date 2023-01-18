@@ -1,0 +1,25 @@
+/**Set the font of your webpage to Arial.*/
+
+
+
+body {
+  font-family: Arial;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+.container {
+  border: 1px solid black;
+}
+
+/**Give the element with id "p1" dark green font.*/
+#p1 {
+  color: darkgreen;
+}
+
+/**Make your rectangle any color you want except for black or white.*/
+.rectangle {
+  background-color: red;
+}
